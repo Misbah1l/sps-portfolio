@@ -145,7 +145,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         
 
-            const API_URL = "YOUR_DEPLOYED_AI_API_URL/chat";
+            const API_URL = "ai-customer-request-triage-production.up.railway.app/chat";
 
 
             if (API_URL.includes("YOUR_DEPLOYED")) {
