@@ -1,81 +1,90 @@
-# Misbah Saeed — Portfolio
+# Misbah Saeed — Personal Portfolio
 
-A personal portfolio website showcasing my work, technical skills, education, experience, and projects in web development, backend development, artificial intelligence, and software engineering.
+A modern, responsive personal portfolio website showcasing my skills, projects, education, and experience as a Computer Science student and aspiring software developer.
 
-## About
+## 🌐 Live Website
 
-I'm a Computer Science student at the Institute of Space Technology (IST), interested in building practical software solutions and modern digital experiences.
+**Portfolio:**  
+https://sps-my-portfolio.netlify.app
 
-My areas of interest include:
+**GitHub Repository:**  
+https://github.com/Misbah1l/sps-portfolio
+
+---
+
+## 👩‍💻 About
+
+I'm Misbah Saeed, a BS Computer Science student at the Institute of Space Technology (IST).
+
+My interests include:
 
 - Web Development
 - Backend Development
-- REST APIs
 - Artificial Intelligence
 - Software Engineering
+- REST API Development
 - Database Systems
 
-## Featured Projects
+This portfolio was created to present my technical skills, academic journey, projects, and internship experience in a clean and professional interface.
 
-### LLM Customer Request Triage API
+---
 
-An AI-powered backend system built with FastAPI for classifying and routing customer requests.
+## ✨ Features
 
-**Technologies:** Python, FastAPI, SQLite, REST APIs, AI/LLM integration
+- Responsive portfolio design
+- Modern dark-themed UI
+- Interactive navigation
+- Smooth scrolling
+- Scroll reveal animations
+- 3D visual element in the hero section
+- Featured projects section
+- Technical skills section
+- Education and experience sections
+- Resume download
+- Contact section
+- GitHub and LinkedIn links
+- Mobile-friendly layout
 
-### AI Language Translator
+---
 
-A web application for translating text using a Python Flask backend and translation API.
+## 🛠️ Technologies Used
 
-**Technologies:** Python, Flask, HTML, CSS, API integration
-
-### Smart FAQ Chatbot
-
-A natural-language FAQ chatbot using NLP techniques to match user questions with relevant answers.
-
-**Technologies:** Python, NLTK, TF-IDF, Cosine Similarity
-
-### Computer Vision Projects
-
-Practical computer vision work involving object detection and image-processing techniques.
-
-**Technologies:** Python, OpenCV, YOLOv8
-
-## Technologies
+### Frontend
 
 - HTML5
 - CSS3
 - JavaScript
+
+### Programming & Backend
+
 - Python
 - C++
 - FastAPI
 - Flask
 - REST APIs
+
+### Databases
+
 - MySQL
 - MongoDB
 - SQLite
+
+### AI & Computer Vision
+
+- OpenCV
+- YOLOv8
+- AI API Integration
+
+### Tools
+
 - Git
 - GitHub
 - Docker
-- OpenCV
-- YOLOv8
+- VS Code
 
-## Portfolio Features
+---
 
-- Responsive multi-page design
-- Modern dark visual theme
-- Featured projects section
-- Technical skills section
-- Education and experience
-- Downloadable resume
-- GitHub and LinkedIn links
-- Misbah Chat AI interface
-
-## Resume
-
-My resume is available directly from the portfolio through the **Download Resume** button.
-
-## Project Structure
+## 📂 Website Structure
 
 ```text
 sps-portfolio/
@@ -86,28 +95,10 @@ sps-portfolio/
 ├── skills.html
 ├── resume.html
 ├── contact.html
-├── style.css
 ├── script.js
+├── style.css
 │
 └── assets/
     └── images/
         └── resume/
             └── Misbah_Saeed_Resume.pdf
-
-Run Locally
-
-Clone the repository:
-
-git clone https://github.com/Misbah1l/sps-portfolio.git
-
-Open the project folder in VS Code and run the website using a local development server such as Live Server.
-
-Links
-
-GitHub:
-https://github.com/Misbah1l
-
-Portfolio Repository:
-https://github.com/Misbah1l/sps-portfolio
-
-© 2026 Misbah Saeed | Web Developer Portfolio
